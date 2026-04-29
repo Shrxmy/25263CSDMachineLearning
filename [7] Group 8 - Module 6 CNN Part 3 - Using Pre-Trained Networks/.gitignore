@@ -1,2 +1,5 @@
 /data/cats_and_dogs_filtered
+/data/cats_and_dogs_from_petimages
 /data/__MACOSX
+/models/*
+/.matplotlib/*
