@@ -1,5 +1,6 @@
 /data/cats_and_dogs_filtered
 /data/cats_and_dogs_from_petimages
+/data/working_split_for_lab3
 /data/__MACOSX
 /models/*
 /.matplotlib/*
